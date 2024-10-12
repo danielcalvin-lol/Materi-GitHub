@@ -1,1 +1,6 @@
-
+#spek kader
+1. Tumbler
+2. Buku angkatan
+3. Slayer
+4. Nametag
+5. Alat tulis
