@@ -1,9 +1,15 @@
 #spek kader
 1. Tumbler
-2. Buku angkatan
+2. BukuKating
 3. Slayer
 4. buah
 5. Nametag
 6. Alat tulis
 7. Ponco
 8. Trash bag
+
+4. Nametag
+5. Alat tulis
+6. Ponco
+7. kaos hijau
+8. sepatu olahraga
